@@ -1,2 +1,2 @@
-# LLMhydro
+# HydroLLMs
 This package implements LLM for hydrology
