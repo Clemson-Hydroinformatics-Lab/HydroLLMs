@@ -14,6 +14,7 @@ This repository provides a **complete and transparent workflow**—from data acq
 - [Dataset](#dataset)
 - [Models Evaluated](#models-evaluated)
 - [Usage](#usage)
+- [Recommended Setup](#recommended_setup)
 - [Citation](#citation)
 
 ## Overview
@@ -104,6 +105,17 @@ llama2-13B | meta-llama/Llama-2-13b-hf
 llama3-8B | meta-llama/Llama-3-8B-hf
 
 llama3.1-8B | meta-llama/Llama-3.1-8B-hf
+
+## Recommended Setup
+
+Create a fresh conda environment:
+
+conda create -n hydrollms python=3.10
+conda activate hydrollms
+
+Install requirements:
+
+pip install -r requirements.txt
 
 ## Citation
 
