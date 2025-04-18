@@ -28,4 +28,12 @@ Thunderstorm,
 
 and Cyclonic.
 
+## Key Findings
+
+Figure 1 — Dataset Size vs Model Performance
+
+F1-score trends show how each model responds to increasing training data.
+
+While most models **required 80–100% of the dataset** for peak performance, **LLaMA-3 models** reached optimal F1-scores with only ~60%, demonstrating **superior data efficiency**.
+
 ![Figure 1](Results/Figure-1.jpg)  
