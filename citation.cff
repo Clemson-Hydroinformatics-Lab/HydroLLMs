@@ -1,1 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Can large language models effectively reason about adverse weather conditions?"
+doi: "https://doi.org/10.1016/j.envsoft.2025.106421"
+date-released: "2025-03-05"
+authors:
+  - given-names: "Nima"
+    family-names: "Zafarmomen"
+    affiliation: "Department of Agricultural Sciences, Clemson University, Clemson, SC, USA"
+  - given-names: "Vidya"
+    family-names: "Samadi"
+    affiliation: "Artificial Intelligence Research Institute for Science and Engineering (AIRISE), School of Computing, Clemson University, Clemson, SC, USA"
 
+repository-code: "https://github.com/Clemson-Hydroinformatics-Lab/HydroLLMs"
+license: "MIT"  
+keywords:
+  - "Large language models"
+  - "Text classification"
+  - "LLaMA"
+  - "BART"
+  - "BERT"
+  - "Adverse weather conditions"
+abstract: "This paper seeks to answer the question “can Large Language Models (LLMs) effectively reason about adverse weather conditions?”. To address this question, we utilized multiple LLMs to harness the US National Weather Service (NWS) flood report data spanning from June 2005 to September 2024. Bidirectional and Auto-Regressive Transformer (BART), Bidirectional Encoder Representations from Transformers (BERT), Large Language Model Meta AI (LLaMA-2), LLaMA-3, and LLaMA-3.1 were employed to categorize data based on predefined labels. The methodology was implemented in Charleston County, South Carolina, USA. Extreme events were unevenly distributed across the training period with the “Cyclonic” category exhibiting significantly fewer instances compared to the “Flood” and “Thunderstorm” categories. Analysis suggests that the LLaMA-3 reached its peak performance at 60% of the dataset size while other LLMs achieved peak performance at approximately 80–100% of the dataset size. This study provided deep insights into the application of LLMs in reasoning adverse weather conditions."
