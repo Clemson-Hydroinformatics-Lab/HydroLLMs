@@ -13,6 +13,7 @@ This repository provides a **complete and transparent workflow**—from data acq
 - [Models Evaluated](#models-evaluated)
 - [Usage](#usage)
 - [Recommended Setup](#recommended_setup)
+- [Authors](#authors)
 - [Citation](#citation)
 
 ## Overview
@@ -114,6 +115,12 @@ conda activate hydrollms
 Install requirements:
 
 pip install -r requirements.txt
+
+## Authors
+
+- **Dr. Vidya Samadi**
+
+- **Nima Zafarmomen**
 
 ## Citation
 
