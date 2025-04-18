@@ -85,6 +85,6 @@ BART	----> large, MNLI
 
 To replicate our analysis:
 
-git clone https://github.com/your-repo/HydroLLMs  
+git clone https://github.com/Clemson-Hydroinformatics-Lab/HydroLLMs  
 pip install -r requirements.txt  
 python train.py --model=llama3-8B --dataset=nws_floods  
