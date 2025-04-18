@@ -13,9 +13,7 @@ This repository provides a **complete and transparent workflow**—from data acq
 - [Key Findings](#key-findings)
 - [Dataset](#dataset)
 - [Models Evaluated](#models-evaluated)
-- [Results](#results)
 - [Usage](#usage)
-- [Lessons Learned](#lessons-learned)
 - [Citation](#citation)
 
 ## Overview
@@ -82,3 +80,11 @@ LLaMA-2	----> 7B, 13B
 BERT	----> base-uncased
 
 BART	----> large, MNLI
+
+## Usage
+
+To replicate our analysis:
+
+git clone https://github.com/your-repo/HydroLLMs  
+pip install -r requirements.txt  
+python train.py --model=llama3-8B --dataset=nws_floods  
