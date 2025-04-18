@@ -60,4 +60,4 @@ Highlights the minimum number of epochs each model required to reach **high clas
 
 **LLaMA-3 models consistently required the fewest epochs**, making them ideal for **real-time or resource-constrained environments**.
 
-![Table 2](Results/Table-2.jpg
+![Table 2](Results/Table-2.jpg)
