@@ -61,3 +61,21 @@ Highlights the minimum number of epochs each model required to reach **high clas
 **LLaMA-3 models consistently required the fewest epochs**, making them ideal for **real-time or resource-constrained environments**.
 
 ![Table 2](Results/Table-2.jpg)
+
+## Dataset
+
+**Source:** National Weather Service (NWS) flood reports (2004–2023).
+
+**Scope:** Labeled text data for Flood, Thunderstorm, and Cyclonic events.
+
+**Challenge:** Class imbalance (e.g., Cyclonic as minority class).
+
+## Models Evaluated
+
+-----------------------------
+Model Family	Variants Tested
+-----------------------------
+LLaMA-3	8B-hf, 70B-hf
+LLaMA-2	7B, 13B
+BERT	base-uncased
+BART	large, MNLI
