@@ -11,3 +11,6 @@ https://mesonet.agron.iastate.edu/request/gis/lsrs.phtml
 ## Usage Notes
 - Coordinate System: WGS84
 - Missing Data: Represented as [null/NA/etc.]
+
+## Data Acquisition
+Primary storm report data was obtained from the [Iowa State University Mesonet](https://mesonet.agron.iastate.edu/request/gis/lsrs.phtml). See [data/sources.txt](data/sources.txt) for complete provenance details.
