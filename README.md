@@ -45,3 +45,19 @@ Comparison of model performance over 10 training epochs.
 **LLaMA-3.1 and LLaMA-3 models** converged in just 3–4 epochs, outperforming **BERT and BART** in stability and early accuracy.
 
 ![Figure 2](Results/Figure-2.jpg)  
+
+**Table 1 — Model Performance on Imbalanced Dataset**
+
+**LLaMA-3.1-8B-hf** achieved an **F1-score of 0.99**2 for the Flood category and **>0.84 for Thunderstorm**.
+
+Performance in the Cyclonic category remained low across models due to data scarcity.
+
+![Table 1](Results/Table-1.jpg)  
+
+**Table 2 — Optimal Epochs for F1 ≥ 0.8**
+
+Highlights the minimum number of epochs each model required to reach **high classification performance**.
+
+**LLaMA-3 models consistently required the fewest epochs**, making them ideal for **real-time or resource-constrained environments**.
+
+![Table 2](Results/Table-2.jpg
