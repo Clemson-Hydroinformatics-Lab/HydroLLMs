@@ -179,5 +179,5 @@ for num_epochs in range(1, 11):
     gc.collect()
 
 results_df = pd.DataFrame(results)
-results_df.to_csv('llama3_8_results.csv', index=False)
+results_df.to_csv('llama3_8_1_results.csv', index=False)
 print(results_df)
