@@ -8,23 +8,7 @@ This repository provides a **complete and transparent workflow**—from data acq
 
 ## Table of Contents
 
-Overview
 
-Key Findings
-
-Dataset
-
-Models Evaluated
-
-Results
-
-Usage
-
-Lessons Learned
-
-Future Work
-
-Citation
 - [Overview](#overview)
 - [Key Findings](#key-findings)
 - [Dataset](#dataset)
