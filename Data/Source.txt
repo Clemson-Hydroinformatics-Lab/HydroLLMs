@@ -1,0 +1,5 @@
+# Primary Data Source
+Iowa State University Mesonet - Local Storm Reports
+URL: https://mesonet.agron.iastate.edu/request/gis/lsrs.phtml
+Format: CSV
+License: Public Domain (see https://mesonet.agron.iastate.edu/docs/)
