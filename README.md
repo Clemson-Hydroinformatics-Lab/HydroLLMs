@@ -25,5 +25,21 @@ Lessons Learned
 Future Work
 
 Citation
+- [Overview](#overview)
+- [Key Findings](#key-findings)
+- [Dataset](#dataset)
+- [Models Evaluated](#models-evaluated)
+- [Results](#results)
+- [Usage](#usage)
+- [Lessons Learned](#lessons-learned)
+- [Citation](#citation)
 
 ## Overview
+
+HydroLLMs investigates the performance of seven transformer-based LLMs—including **BART, BERT, LLaMA-2, and LLaMA-3** models—on multi-label classification of **over 19 years of National Weather Service (NWS)** flood reports from Charleston County, South Carolina. The study focuses on three critical disaster categories: 
+
+Flood, 
+
+Thunderstorm, 
+
+and Cyclonic.
