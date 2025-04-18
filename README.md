@@ -88,11 +88,19 @@ To replicate our analysis:
 git clone https://github.com/Clemson-Hydroinformatics-Lab/HydroLLMs  
 pip install -r requirements.txt  
 python train.py --model=llama3-8B --dataset=nws_floods  
+
 Model Flag | Corresponding HuggingFace Model ID
+
 bart-large | facebook/bart-large
+
 bart-mnli | facebook/bart-large-mnli
+
 bert-base | google-bert/bert-base-uncased
+
 llama2-7B | meta-llama/Llama-2-7b-hf
+
 llama2-13B | meta-llama/Llama-2-13b-hf
+
 llama3-8B | meta-llama/Llama-3-8B-hf
+
 llama3.1-8B | meta-llama/Llama-3.1-8B-hf
