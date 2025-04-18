@@ -20,11 +20,11 @@ This repository provides a **complete and transparent workflow**—from data acq
 
 HydroLLMs investigates the performance of seven transformer-based LLMs—including **BART, BERT, LLaMA-2, and LLaMA-3** models—on multi-label classification of **over 19 years of National Weather Service (NWS)** flood reports from Charleston County, South Carolina. The study focuses on three critical disaster categories: 
 
-Flood, 
+- Flood, 
 
-Thunderstorm, 
+- Thunderstorm, 
 
-and Cyclonic.
+- and Cyclonic.
 
 ## Key Findings
 
