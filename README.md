@@ -27,3 +27,5 @@ Flood,
 Thunderstorm, 
 
 and Cyclonic.
+
+![Figure 1](Results/Figure-1.jpg)  
