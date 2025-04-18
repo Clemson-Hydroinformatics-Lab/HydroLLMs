@@ -8,7 +8,10 @@ import evaluate
 from sklearn.metrics import precision_recall_fscore_support, accuracy_score
 from huggingface_hub import login
 
-login(token='YOUR_HF_TOKEN_HERE')
+os.environ['TRANSFORMERS_CACHE'] = '/scratch/nzafarm/cache/'
+os.environ['HF_HOME'] = '/scratch/nzafarm/cache/'
+os.environ['HF_TOKEN'] = 'YOUR_HF_TOKEN_HERE'
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 df = pd.read_csv('Charleston_dataset.csv')
 df = df.dropna(subset=['Remark'])
