@@ -1,4 +1,21 @@
 # HydroLLMs
+
 **Can Large Language Models Effectively Reason about Adverse Weather Conditions?**
 
-Welcome to **HydroLLMs**, a repository dedicated to providing some insights about how this research gone and share the codes, results and explain each not only find the research 
+Welcome to **HydroLLMs**, a repository dedicated to sharing the **research findings, codebase, and evaluation** framework from our comprehensive study on the reasoning capabilities of Large Language Models (LLMs) when classifying adverse weather events using real-world disaster reports.
+
+This repository provides a **complete and transparent workflow**—from data acquisition and preprocessing to fine-tuning and evaluation of multiple LLM architectures. It also includes practical insights into optimizing training efficiency and model stability, aiming to serve as a reference for **researchers, developers, and disaster management** practitioners interested in applying LLMs to text-based hazard analytics.
+
+## Table of Contents
+
+Overview
+Key Findings
+Dataset
+Models Evaluated
+Results
+Usage
+Lessons Learned
+Future Work
+Citation
+
+## Overview
