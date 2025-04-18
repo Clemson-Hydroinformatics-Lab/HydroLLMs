@@ -104,3 +104,7 @@ llama2-13B | meta-llama/Llama-2-13b-hf
 llama3-8B | meta-llama/Llama-3-8B-hf
 
 llama3.1-8B | meta-llama/Llama-3.1-8B-hf
+
+## Citation
+
+Zafarmomen, N., & Samadi, V. (2025). Can large language models effectively reason about adverse weather conditions?. Environmental Modelling & Software, 188, 106421. DOI: https://doi.org/10.1016/j.envsoft.2025.106421
