@@ -76,6 +76,9 @@ Highlights the minimum number of epochs each model required to reach **high clas
 Model Family	Variants Tested
 -----------------------------
 LLaMA-3	8B-hf, 70B-hf
+
 LLaMA-2	7B, 13B
+
 BERT	base-uncased
+
 BART	large, MNLI
