@@ -1,0 +1,22 @@
+# Core requirements
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+pandas>=1.5.0
+numpy>=1.23.0
+evaluate>=0.4.0
+scikit-learn>=1.2.0
+accelerate>=0.20.0
+peft>=0.4.0
+bitsandbytes>=0.40.0
+huggingface-hub>=0.15.0
+
+# Optional/GPU requirements
+--extra-index-url https://download.pytorch.org/whl/cu118  # For CUDA 11.8
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Development extras
+black>=23.0.0
+flake8>=6.0.0
+isort>=5.12.0
