@@ -72,13 +72,13 @@ Highlights the minimum number of epochs each model required to reach **high clas
 
 ## Models Evaluated
 
------------------------------
+
 Model Family	Variants Tested
------------------------------
-LLaMA-3	8B-hf, 70B-hf
 
-LLaMA-2	7B, 13B
+LLaMA-3	----> 8B-hf, 70B-hf
 
-BERT	base-uncased
+LLaMA-2	----> 7B, 13B
 
-BART	large, MNLI
+BERT	----> base-uncased
+
+BART	----> large, MNLI
