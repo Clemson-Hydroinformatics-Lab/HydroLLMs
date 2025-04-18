@@ -86,7 +86,7 @@ BART	----> large, MNLI
 
 To replicate our analysis:
 
-git clone https://github.com/Clemson-Hydroinformatics-Lab/HydroLLMs  
+git clone https://github.com/Clemson-Hydroinformatics-Lab/HydroLLMs.git  
 pip install -r requirements.txt  
 python train.py --model=Model Flag --dataset=nws_floods  
 
