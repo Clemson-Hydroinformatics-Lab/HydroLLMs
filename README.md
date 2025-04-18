@@ -30,10 +30,18 @@ and Cyclonic.
 
 ## Key Findings
 
-Figure 1 — Dataset Size vs Model Performance
+**Figure 1 — Dataset Size vs Model Performance**
 
 F1-score trends show how each model responds to increasing training data.
 
 While most models **required 80–100% of the dataset** for peak performance, **LLaMA-3 models** reached optimal F1-scores with only ~60%, demonstrating **superior data efficiency**.
 
 ![Figure 1](Results/Figure-1.jpg)  
+
+**Figure 2 — Epoch-Wise Stability Across Models**
+
+Comparison of model performance over 10 training epochs.
+
+**LLaMA-3.1 and LLaMA-3 models** converged in just 3–4 epochs, outperforming **BERT and BART** in stability and early accuracy.
+
+![Figure 2](Results/Figure-2.jpg)  
