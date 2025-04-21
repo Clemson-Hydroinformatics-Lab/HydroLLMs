@@ -1,4 +1,4 @@
-# HydroLLMs
+# Large Language Models' (LLMs) applications in hydrology--HydroLLMs
 
 Welcome to **HydroLLMs**, a repository dedicated to sharing the **research findings, codebase, and evaluation** framework from our comprehensive study on the reasoning capabilities of Large Language Models (LLMs) when classifying adverse weather events using real-world disaster reports.
 
