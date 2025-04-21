@@ -1,3 +1,5 @@
+#LLaMA-2-7B model
+
 from transformers import (
     AutoTokenizer,
     AutoModelForSequenceClassification,
