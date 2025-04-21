@@ -123,7 +123,7 @@ pip install -r requirements.txt
 - **Dr. Vidya Samadi**
 
 ## Cite Our Work
-If you find our code or our papervuseful we encourage you to cite our paper. 
+If you find our code or our paper useful we encourage you to cite our paper. 
 
 Zafarmomen, N., & Samadi, V. (2025). Can large language models effectively reason about adverse weather conditions?. Environmental Modelling & Software, 188, 106421. DOI: https://doi.org/10.1016/j.envsoft.2025.106421
 
